@@ -63,12 +63,6 @@ DA:66,1
 LF:11
 LH:11
 end_of_record
-SF:lib\logger\logger.dart
-DA:11,51
-DA:12,17
-LF:2
-LH:2
-end_of_record
 SF:lib\blocs\gps\gps_state.dart
 DA:23,0
 DA:29,35
@@ -148,6 +142,12 @@ DA:148,0
 DA:149,0
 LF:52
 LH:27
+end_of_record
+SF:lib\logger\logger.dart
+DA:11,51
+DA:12,17
+LF:2
+LH:2
 end_of_record
 SF:lib\blocs\map\map_event.dart
 DA:9,97
